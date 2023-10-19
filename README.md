@@ -16,4 +16,4 @@
 
 ## Website Link
 
-To see the live version of PromptVerse, visit [https://promptverseee.vercel.app/](https://promptverse-two.vercel.app/).
+To see the live version of PromptVerse, visit [https://promptverseee.vercel.app/](https://promptverseee.vercel.app/).
